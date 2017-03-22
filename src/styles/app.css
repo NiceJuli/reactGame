@@ -1,0 +1,82 @@
+.Content {
+	background: #5A955B;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	padding: 60px 0;
+	font-family: Arial;
+}
+
+.Content-top {
+	width: 80%;
+	margin: 0 auto 60px;
+	text-align: center;
+}
+
+.Buttlefield {
+	text-align: center;
+}
+
+.StartButton {
+	margin-bottom: 50px;
+	background: #fff;
+	border: 1px solid #999;
+	border-radius: 2px;
+	padding: 5px 10px;
+	cursor: pointer;
+	outline: none;
+}
+
+.StartButton:hover {
+	background: #ddd;
+}
+
+.Card {
+	width: 150px;
+	height: 200px;
+	background: #FBFDFF;
+	text-align: center;
+	font-size: 30px;
+	display: inline-block;
+	margin: 0 100px;
+	color: #333;
+}
+
+.Card span {
+	display: block;
+	margin: 20px auto; 
+}
+
+.User {
+	color: #fff;
+	font-size: 24px;
+	display: inline-block;
+	margin: 0 100px;
+}
+
+.CardsBox {
+	margin-bottom: 30px;
+	height: 200px;
+}
+
+.ResultGame {
+	width: 700px;
+	height: 300px;
+	overflow: auto;
+	margin: 0 auto;
+	color: #fff;
+	border-top: 1px solid #fff;
+}
+
+.ResultGame li {
+	text-align: left;
+	margin: 5px 0;
+}
+
+.ResultGameText {
+	text-align: center;
+	color: #fff;
+	font-size: 28px;
+}

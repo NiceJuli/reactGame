@@ -1,0 +1,7 @@
+export const START_GAME = 'START_GAME'
+export const FINISH_GAME = 'FINISH_GAME'
+export const INIT_GAME = 'INIT_GAME'
+export const ADD_CARDS_F = 'ADD_CARDS_F'
+export const DELETE_CARDS_F = 'DELETE_CARDS_F'
+export const ADD_CARDS_S = 'ADD_CARDS_S'
+export const DELETE_CARDS_S = 'DELETE_CARDS_S'
